@@ -29,6 +29,7 @@ MVC:
 
 Algorithms:
 * https://github.com/Eugene-98/Sorting_Algorithms
+* https://github.com/Eugene-98/Search_algorithms
 
 Basic:
 * https://github.com/Eugene-98/Working_With_Streams
