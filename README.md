@@ -16,7 +16,7 @@
 * HTML/CSS
 * Git
 * SQL (Transact-SQL)
-* JavaScript(React)
+* JavaScript (React)
 ***
 ## 🔗 Portfolio
 Client-server application:
