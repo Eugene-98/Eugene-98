@@ -16,6 +16,7 @@
 * HTML/CSS
 * Git
 * SQL (Transact-SQL)
+* JavaScript(React)
 ***
 ## 🔗 Portfolio
 Client-server application:
@@ -26,6 +27,7 @@ WEB API:
 
 MVC:
 * https://github.com/Eugene-98/Online-store (In developing)
+* https://github.com/Eugene-98/NewsApp (With React Frontend)
 
 Algorithms:
 * https://github.com/Eugene-98/Sorting_Algorithms
